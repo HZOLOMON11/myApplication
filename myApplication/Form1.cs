@@ -15,6 +15,9 @@ namespace myApplication
         public Form1()
         {
             InitializeComponent();
+            label1.Text = "negro";
         }
+
+      
     }
 }

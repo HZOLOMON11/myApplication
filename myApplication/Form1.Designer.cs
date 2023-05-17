@@ -40,6 +40,7 @@
             this.label1.Size = new System.Drawing.Size(611, 73);
             this.label1.TabIndex = 0;
             this.label1.Text = "Kanyewestlover911";
+         
             // 
             // Form1
             // 
